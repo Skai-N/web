@@ -12,5 +12,25 @@ p {
 }
   
 a:link {
+  color: #778da9;
+}
+
+a:visited {
   color: #415a77;
+}
+
+a:hover {
+  color: #bdd5ea;
+}
+
+a:selected {
+  color: #778da9;
+}
+
+li {
+  color: #e0e1dd
+}
+
+li span {
+  color: #e0e1dd
 }
