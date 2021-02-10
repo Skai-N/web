@@ -1,8 +1,16 @@
 body {
   background-color: #0d1b2a;
+  font-family: "verdana";
+}
+
+h1 {
+  color: #f7f7ff;
 }
 
 p {
   color: #e0e1dd;
 }
   
+a:link {
+  color: #415a77;
+}
