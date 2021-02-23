@@ -38,5 +38,9 @@ li span {
 
 td {
   text-align: center;
-  background-color: #e0e1dd;
+  background-color: #f7f7ff;
+}
+
+tr:hover {
+  background-color: #e0e1dd
 }
