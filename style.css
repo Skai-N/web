@@ -44,9 +44,3 @@ td {
 tr:hover {
   background-color: #e0e1dd
 }
-
-img {
-  margin-left: auto;
-  margin-right: auto;
-  object-fit: cover;
-}
